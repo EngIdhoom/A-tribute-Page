@@ -1,3 +1,39 @@
 *{
     background: #baa785;
+    font-family: sans-serif, Arial, Helvetica;
+    margin: 10px 20px;
+    /* border: 1px solid green; */
+}
+.header, 
+.header-h2, 
+.header-p{
+    text-align: center;
+    /* padding: 5px; */
+    background-color: blue;
+}
+.img {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 0px 0px;
+    background: #00aaff;
+    
+}
+.tribute,
+.div-p,
+.div-h3{
+    margin: 0px 0px;
+    text-align: justify;
+    background-color: blue;
+    
+}
+#raila-img{
+    width: 100%; 
+    margin: 0px 0px;
+
+}
+footer{
+    text-align: center;
+    background-color: violet;
+    margin: 0px 0px;
 }
