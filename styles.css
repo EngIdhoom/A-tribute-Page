@@ -1,7 +1,7 @@
 *{
     background: #baa785;
     font-family: sans-serif, Arial, Helvetica;
-    margin: 10px 20px;
+    margin: 10px 100px;
     /* border: 1px solid green; */
 }
 .header, 
@@ -35,5 +35,5 @@
 footer{
     text-align: center;
     background-color: violet;
-    margin: 0px 0px;
+    /* margin: 0px 0px; */
 }
